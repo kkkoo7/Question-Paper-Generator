@@ -1,0 +1,85 @@
+{
+	"criteria": {
+		"total": 100,
+		"easy": 15,
+		"medium": 35,
+		"hard": 50
+	},
+	"question_set": {
+	"easy": [{
+			"question_id": 1,
+			"marks": 1
+		},
+		{
+			"question_id": 2,
+			"marks": 2
+		},
+		{
+			"question_id": 3,
+			"marks": 3
+		},
+		{
+			"question_id": 4,
+			"marks": 4
+		},
+		{
+			"question_id": 5,
+			"marks": 5
+		},
+		{
+			"question_id": 6,
+			"marks": 6
+		}
+	],
+	"medium": [{
+			"question_id": 7,
+			"marks": 3
+		},
+		{
+			"question_id": 8,
+			"marks": 5
+		},
+		{
+			"question_id": 9,
+			"marks": 7
+		},
+		{
+			"question_id": 10,
+			"marks": 9
+		},
+		{
+			"question_id": 11,
+			"marks": 11
+		},
+		{
+			"question_id": 12,
+			"marks": 13
+		}
+	],
+	"hard": [{
+			"question_id": 13,
+			"marks": 2
+		},
+		{
+			"question_id": 14,
+			"marks": 4
+		},
+		{
+			"question_id": 15,
+			"marks": 8
+		},
+		{
+			"question_id": 16,
+			"marks": 16
+		},
+		{
+			"question_id": 17,
+			"marks": 32
+		},
+		{
+			"question_id": 18,
+			"marks": 20
+		}
+	]
+}
+}
